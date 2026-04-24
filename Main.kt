@@ -3,6 +3,8 @@
 // UTS Pemrograman Berorientasi Objek
 // ============================================================
 
+commit 2 
+
 class Kamar(
     val nomorKamar: String,
     val tipeKamar: String,
